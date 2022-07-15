@@ -1,0 +1,157 @@
+﻿Targets,Scenarios,Type of investment,Investment category,BAU,Year 1,Year 2 ,Year 3,Year 4,Year 5,Year 6,Year 7,Year 8,Year 9,Year 10
+Target B1,BAU,Costs of establishing and/or maintain nurseries,Institutional costs,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target B1,BAU,Costs for training and capacity building,Institutional costs,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target B1,BAU,Total institutional costs,Institutional costs,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target B1,BAU,Labor costs,Individual farmer costs,$0.00 ,$420.89 ,$420.89 ,$420.89 ,$420.89 ,$420.89 ,$420.89 ,$420.89 ,$420.89 ,$420.89 ,$420.89 
+Target B1,BAU,Input costs,Individual farmer costs,$0.00 ,$434.67 ,$434.67 ,$434.67 ,$434.67 ,$434.67 ,$434.67 ,$434.67 ,$434.67 ,$434.67 ,$434.67 
+Target B1,BAU,Total individual costs to farmer,Individual farmer costs,$0.00 ,$855.56 ,$855.56 ,$855.56 ,$855.56 ,$855.56 ,$855.56 ,$855.56 ,$855.56 ,$855.56 ,$855.56 
+Target B1,Scenario 2,Costs of establishing and/or maintain nurseries,Institutional costs,$0.00 ,"$47,917.73 ","$35,785.28 ","$35,785.28 ","$35,785.28 ","$35,785.28 ","$35,785.28 ","$35,785.28 ","$35,785.28 ","$35,785.28 ","$35,785.28 "
+Target B1,Scenario 2,Costs for training and capacity building,Institutional costs,$0.00 ,"$8,339.60 ","$5,837.72 ","$4,169.80 ","$2,501.88 ","$2,501.88 ","$2,501.88 ","$2,501.88 ","$2,501.88 ","$2,501.88 ","$2,501.88 "
+Target B1,Scenario 2,Total institutional costs,Institutional costs,$0.00 ,"$56,257.33 ","$41,622.99 ","$39,955.07 ","$38,287.16 ","$38,287.16 ","$38,287.16 ","$38,287.16 ","$38,287.16 ","$38,287.16 ","$38,287.16 "
+Target B1,Scenario 2,Labor costs,Individual farmer costs,$0.00 ,$467.08 ,$434.42 ,$434.42 ,$434.42 ,$434.42 ,$434.42 ,$434.42 ,$434.42 ,$434.42 ,$434.42 
+Target B1,Scenario 2,Input costs,Individual farmer costs,$0.00 ,$527.55 ,$453.71 ,$487.87 ,$453.71 ,$487.87 ,$453.71 ,$487.87 ,$453.71 ,$487.87 ,$453.71 
+Target B1,Scenario 2,Total individual costs to farmer,Individual farmer costs,$0.00 ,$994.63 ,$888.12 ,$922.29 ,$888.12 ,$922.29 ,$888.12 ,$922.29 ,$888.12 ,$922.29 ,$888.12 
+Target B1,Scenario 3,Costs of establishing and/or maintain nurseries,Institutional costs,$0.00 ,"$62,987.74 ","$49,831.11 ","$49,831.11 ","$49,831.11 ","$49,831.11 ","$49,831.11 ","$49,831.11 ","$49,831.11 ","$49,831.11 ","$49,831.11 "
+Target B1,Scenario 3,Costs for training and capacity building,Institutional costs,$0.00 ,"$13,381.23 ","$12,043.11 ","$12,043.11 ","$12,043.11 ","$12,043.11 ","$9,366.86 ","$9,366.86 ","$9,366.86 ","$9,366.86 ","$9,366.86 "
+Target B1,Scenario 3,Total institutional costs,Institutional costs,$0.00 ,"$76,368.97 ","$61,874.22 ","$61,874.22 ","$61,874.22 ","$61,874.22 ","$59,197.98 ","$59,197.98 ","$59,197.98 ","$59,197.98 ","$59,197.98 "
+Target B1,Scenario 3,Labor costs,Individual farmer costs,$0.00 ,$476.98 ,$423.89 ,$423.89 ,$423.89 ,$423.89 ,$423.89 ,$423.89 ,$423.89 ,$423.89 ,$423.89 
+Target B1,Scenario 3,Input costs,Individual farmer costs,$0.00 ,$627.66 ,$451.80 ,$451.80 ,$451.80 ,$451.80 ,$448.00 ,$448.00 ,$448.00 ,$448.00 ,$448.00 
+Target B1,Scenario 3,Total individual costs to farmer,Individual farmer costs,$0.00 ,"$1,104.63 ",$875.70 ,$875.70 ,$875.70 ,$875.70 ,$871.89 ,$871.89 ,$871.89 ,$871.89 ,$871.89 
+Target B1,Average (Scen2 & Scen3),Costs of establishing and/or maintain nurseries,Institutional costs,$0.00 ,"$55,452.74 ","$42,808.20 ","$42,808.20 ","$42,808.20 ","$42,808.20 ","$42,808.20 ","$42,808.20 ","$42,808.20 ","$42,808.20 ","$42,808.20 "
+Target B1,Average (Scen2 & Scen3),Costs for training and capacity building,Institutional costs,$0.00 ,"$10,860.42 ","$8,940.41 ","$8,106.45 ","$7,272.49 ","$7,272.49 ","$5,934.37 ","$5,934.37 ","$5,934.37 ","$5,934.37 ","$5,934.37 "
+Target B1,Average (Scen2 & Scen3),Total institutional costs,Institutional costs,$0.00 ,"$66,313.15 ","$51,748.61 ","$50,914.65 ","$50,080.69 ","$50,080.69 ","$48,742.57 ","$48,742.57 ","$48,742.57 ","$48,742.57 ","$48,742.57 "
+Target B1,Average (Scen2 & Scen3),Labor costs,Individual farmer costs,$0.00 ,$472.03 ,$429.16 ,$429.16 ,$429.16 ,$429.16 ,$429.16 ,$429.16 ,$429.16 ,$429.16 ,$429.16 
+Target B1,Average (Scen2 & Scen3),Input costs,Individual farmer costs,$0.00 ,$577.61 ,$452.76 ,$469.84 ,$452.76 ,$469.84 ,$450.85 ,$467.93 ,$450.85 ,$467.93 ,$450.85 
+Target B1,Average (Scen2 & Scen3),Total individual costs to farmer,Individual farmer costs,$0.00 ,"$1,049.63 ",$881.91 ,$898.99 ,$881.91 ,$898.99 ,$880.01 ,$897.09 ,$880.01 ,$897.09 ,$880.01 
+Target B1,Scenario 2,Incremental labor costs,Individual farmer costs,$0.00 ,$46.19 ,$13.53 ,$13.53 ,$13.53 ,$13.53 ,$13.53 ,$13.53 ,$13.53 ,$13.53 ,$13.53 
+Target B1,Scenario 2,Incremental input costs,Individual farmer costs,$0.00 ,$92.89 ,$19.04 ,$53.20 ,$19.04 ,$53.20 ,$19.04 ,$53.20 ,$19.04 ,$53.20 ,$19.04 
+Target B1,Scenario 2,Incremental total individual costs to farmer,Individual farmer costs,$0.00 ,$139.08 ,$32.57 ,$66.73 ,$32.57 ,$66.73 ,$32.57 ,$66.73 ,$32.57 ,$66.73 ,$32.57 
+Target B1,Scenario 3,Incremental labor costs,Individual farmer costs,$0.00 ,$56.09 ,$3.01 ,$3.01 ,$3.01 ,$3.01 ,$3.01 ,$3.01 ,$3.01 ,$3.01 ,$3.01 
+Target B1,Scenario 3,Incremental input costs,Individual farmer costs,$0.00 ,$192.99 ,$17.14 ,$17.14 ,$17.14 ,$17.14 ,$13.33 ,$13.33 ,$13.33 ,$13.33 ,$13.33 
+Target B1,Scenario 3,Incremental total individual costs to farmer,Individual farmer costs,$0.00 ,$249.08 ,$20.14 ,$20.14 ,$20.14 ,$20.14 ,$16.33 ,$16.33 ,$16.33 ,$16.33 ,$16.33 
+Target B1,Average (Scen2 & Scen3),Incremental labor costs,Individual farmer costs,$0.00 ,$51.14 ,$8.27 ,$8.27 ,$8.27 ,$8.27 ,$8.27 ,$8.27 ,$8.27 ,$8.27 ,$8.27 
+Target B1,Average (Scen2 & Scen3),Incremental input costs,Individual farmer costs,$0.00 ,$142.94 ,$18.09 ,$35.17 ,$18.09 ,$35.17 ,$16.18 ,$33.27 ,$16.18 ,$33.27 ,$16.18 
+Target B1,Average (Scen2 & Scen3),Incremental total individual costs to farmer,Individual farmer costs,$0.00 ,$194.08 ,$26.36 ,$43.44 ,$26.36 ,$43.44 ,$24.45 ,$41.53 ,$24.45 ,$41.53 ,$24.45 
+Target B1,Scenario 2,Labor costs percent increase,Individual farmer costs,$0.00 ,11,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2,3.2
+Target B1,Scenario 2,Input costs percent increase,Individual farmer costs,$0.00 ,21.4,4.4,12.2,4.4,12.2,4.4,12.2,4.4,12.2,4.4
+Target B1,Scenario 2,Total individual costs to farmer percent increase,Individual farmer costs,$0.00 ,16.3,3.8,7.8,3.8,7.8,3.8,7.8,3.8,7.8,3.8
+Target B1,Scenario 3,Labor costs percent increase,Individual farmer costs,$0.00 ,13.3,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Target B1,Scenario 3,Input costs percent increase,Individual farmer costs,$0.00 ,44.4,3.9,3.9,3.9,3.9,3.1,3.1,3.1,3.1,3.1
+Target B1,Scenario 3,Total individual costs to farmer percent increase,Individual farmer costs,$0.00 ,29.1,2.4,2.4,2.4,2.4,1.9,1.9,1.9,1.9,1.9
+Target B1,Average (Scen2 & Scen3),Labor costs percent increase,Individual farmer costs,$0.00 ,12.2,2,2,2,2,2,2,2,2,2
+Target B1,Average (Scen2 & Scen3),Input costs percent increase,Individual farmer costs,$0.00 ,32.9,4.2,8.1,4.2,8.1,3.7,7.7,3.7,7.7,3.7
+Target B1,Average (Scen2 & Scen3),Total individual costs to farmer percent increase,Individual farmer costs,$0.00 ,22.7,3.1,5.1,3.1,5.1,2.9,4.9,2.9,4.9,2.9
+Target B1,BAU,Gross value of annual crops of USD,Individual farmer costs,$0.00 ,"$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 "
+Target B1,BAU,Gross value of perrenial crops of USD,Individual farmer costs,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target B1,BAU,Gross value of tree species USD,Individual farmer costs,$0.00 ,$1.41 ,$1.41 ,$1.41 ,$1.41 ,$1.41 ,$1.41 ,$1.41 ,$1.41 ,$1.41 ,$1.41 
+Target B1,BAU,"Gross value		",Individual farmer costs,$0.00 ,"$1,894.90 ","$1,894.90 ","$1,894.90 ","$1,894.90 ","$1,894.90 ","$1,894.90 ","$1,894.90 ","$1,894.90 ","$1,894.90 ","$1,894.90 "
+Target B1,Scenario 2,Gross value of annual crops of USD,Individual farmer costs,$0.00 ,"$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 "
+Target B1,Scenario 2,Gross value of perrenial crops of USD,Individual farmer costs,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target B1,Scenario 2,Gross value of tree species USD,Individual farmer costs,$0.00 ,"$1,266.08 ","$1,012.86 ","$1,266.08 ","$1,012.86 ","$1,266.08 ","$1,012.86 ","$1,266.08 ","$1,012.86 ","$1,266.08 ","$1,012.86 "
+Target B1,Scenario 2,"Gross value		",Individual farmer costs,$0.00 ,"$3,159.57 ","$2,906.36 ","$3,159.57 ","$2,906.36 ","$3,159.57 ","$2,906.36 ","$3,159.57 ","$2,906.36 ","$3,159.57 ","$2,906.36 "
+Target B1,Scenario 3,Gross value of annual crops of USD,Individual farmer costs,$0.00 ,"$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 "
+Target B1,Scenario 3,Gross value of perrenial crops of USD,Individual farmer costs,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target B1,Scenario 3,Gross value of tree species USD,Individual farmer costs,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,296.14 ",$518.46 ,$129.61 ,$518.46 ,$129.61 ,$518.46 
+Target B1,Scenario 3,"Gross value		",Individual farmer costs,$0.00 ,"$1,893.50 ","$1,893.50 ","$1,893.50 ","$1,893.50 ","$3,189.63 ","$2,411.95 ","$2,023.11 ","$2,411.95 ","$2,023.11 ","$2,411.95 "
+Target B1,BAU,Net values to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$1,039.35 ","$1,039.35 ","$1,039.35 ","$1,039.35 ","$1,039.35 ","$1,039.35 ","$1,039.35 ","$1,039.35 ","$1,039.35 ","$1,039.35 "
+Target B1,BAU,Net Present Values (NPV) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$1,039.35 ",$951.78 ,$871.60 ,$798.17 ,$730.92 ,$669.34 ,$612.95 ,$561.31 ,$514.02 ,$431.06 
+Target B1,BAU,Net Present Values (NPV) in USD/person/day/Ha,Individual farmer costs,$0.00 ,$0.65 ,$0.59 ,$0.54 ,$0.50 ,$0.45 ,$0.42 ,$0.38 ,$0.35 ,$0.32 ,$0.27 
+Target B1,BAU,Benefit cost ratio,Individual farmer costs,$0.00 ,2.21,2.21,2.21,2.21,2.21,2.21,2.21,2.21,2.21,2.21
+Target B1,Scenario 2,Net values to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$2,164.94 ","$2,018.23 ","$2,237.29 ","$2,018.23 ","$2,237.29 ","$2,018.23 ","$2,237.29 ","$2,018.23 ","$2,237.29 ","$2,018.23 "
+Target B1,Scenario 2,Net Present Values (NPV) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$2,164.94 ","$1,848.20 ","$1,876.19 ","$1,549.90 ","$1,573.37 ","$1,299.74 ","$1,319.43 ","$1,089.97 ","$1,106.47 ",$914.04 
+Target B1,Scenario 2,Net Present Values (NPV) in USD/person/day/Ha,Individual farmer costs,$0.00 ,$1.34 ,$1.15 ,$1.17 ,$0.96 ,$0.98 ,$0.81 ,$0.82 ,$0.68 ,$0.69 ,$0.57 
+Target B1,Scenario 2,Benefit cost ratio,Individual farmer costs,$0.00 ,3.18,3.27,3.43,3.27,3.43,3.27,3.43,3.27,3.43,3.27
+Target B1,Scenario 3,Net values to farmers in USD/Ha,Individual farmer costs,$0.00 ,$788.86 ,"$1,017.80 ","$1,017.80 ","$1,017.80 ","$2,313.94 ","$1,540.06 ","$1,151.22 ","$1,540.06 ","$1,151.22 ","$1,540.06 "
+Target B1,Scenario 3,Net Present Values (NPV) to farmers in USD/Ha,Individual farmer costs,$0.00 ,$788.86 ,$932.05 ,$853.52 ,$781.62 ,"$1,627.28 ",$991.80 ,$678.93 ,$831.72 ,$569.35 ,$697.48 
+Target B1,Scenario 3,Net Present Values (NPV) in USD/person/day/Ha,Individual farmer costs,$0.00 ,$0.49 ,$0.58 ,$0.53 ,$0.49 ,$1.01 ,$0.62 ,$0.42 ,$0.52 ,$0.35 ,$0.43 
+Target B1,Scenario 3,Benefit cost ratio,Individual farmer costs,$0.00 ,1.71,2.16,2.16,2.16,3.64,2.77,2.32,2.77,2.32,2.77
+Target B1,BAU,Net Present Costs (NPC) to farmers in USD/Ha,Individual farmer costs,$0.00 ,$420.89 ,$385.43 ,$352.96 ,$323.22 ,$295.99 ,$271.05 ,$248.22 ,$227.30 ,$208.15 ,$190.62 
+Target B1,BAU,Net Present Gross Values (NPGV) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$1,894.90 ","$1,735.26 ","$1,589.07 ","$1,455.19 ","$1,332.59 ","$1,220.32 ","$1,117.51 ","$1,023.36 ",$937.14 ,$858.19 
+Target B1,BAU,Net Present Values (NPV) in USD/person/day/Ha _ 1,Individual farmer costs,$0.00 ,"$1,474.02 ","$1,349.83 ","$1,236.11 ","$1,131.97 ","$1,036.60 ",$949.27 ,$869.29 ,$796.06 ,$728.99 ,$667.57 
+Target B1,BAU,Benefit-Cost-Ratio (BCR),Individual farmer costs,$0.00 ,4.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5,4.5
+Target B1,Scenario 2,Net Present Costs (NPC) to farmers in USD/Ha,Individual farmer costs,$0.00 ,$467.08 ,$397.82 ,$364.30 ,$333.61 ,$305.50 ,$279.76 ,$256.19 ,$234.61 ,$214.85 ,$196.74 
+Target B1,Scenario 2,Net Present Gross Values (NPGV) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$3,159.57 ","$2,661.50 ","$2,649.62 ","$2,231.93 ","$2,221.97 ","$1,871.70 ","$1,863.34 ","$1,569.61 ","$1,562.60 ","$1,316.27 "
+Target B1,Scenario 2,Net Present Values (NPV) in USD/person/day/Ha _ 1,Individual farmer costs,$0.00 ,"$2,692.49 ","$2,263.68 ","$2,285.31 ","$1,898.32 ","$1,916.46 ","$1,591.93 ","$1,607.15 ","$1,334.99 ","$1,347.75 ","$1,119.53 "
+Target B1,Scenario 2,Benefit-Cost-Ratio (BCR),Individual farmer costs,$0.00 ,6.76,6.69,7.27,6.69,7.27,6.69,7.27,6.69,7.27,6.69
+Target B1,Scenario 3,Net Present Costs (NPC) to farmers in USD/Ha,Individual farmer costs,$0.00 ,$476.98 ,$388.18 ,$355.48 ,$325.53 ,$298.10 ,$272.99 ,$249.99 ,$228.93 ,$209.64 ,$191.98 
+Target B1,Scenario 3,Net Present Gross Values (NPGV) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$1,893.50 ","$1,733.97 ","$1,587.88 ","$1,454.11 ","$2,243.11 ","$1,553.30 ","$1,193.12 ","$1,302.60 ","$1,000.55 ","$1,092.36 "
+Target B1,Scenario 3,Net Present Values (NPV) in USD/person/day/Ha _ 1,Individual farmer costs,$0.00 ,"$1,416.52 ","$1,345.79 ","$1,232.41 ","$1,128.58 ","$1,945.01 ","$1,280.31 ",$943.13 ,"$1,073.67 ",$790.91 ,$900.38 
+Target B1,Scenario 3,Benefit-Cost-Ratio (BCR),Individual farmer costs,$0.00 ,3.97,4.47,4.47,4.47,7.52,5.69,4.77,5.69,4.77,5.69
+Target G3,BAU,Costs of establishing and/or maintain nurseries,Institutional costs,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target G3,BAU,Costs for training and capacity building,Institutional costs,$0.00 ,$0.00 ,$500.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target G3,BAU,Total institutional costs,Institutional costs,$0.00 ,$0.00 ,$500.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target G3,BAU,Labor costs,Individual farmer costs,$0.00 ,"$1,058.82 ","$1,058.82 ","$1,058.82 ","$1,058.82 ","$1,058.82 ","$1,058.82 ","$1,058.82 ","$1,058.82 ","$1,058.82 ","$1,058.82 "
+Target G3,BAU,Input costs,Individual farmer costs,$0.00 ,"$2,244.49 ","$2,244.49 ","$2,244.49 ","$2,244.49 ","$2,244.49 ","$2,244.49 ","$2,244.49 ","$2,244.49 ","$2,244.49 ","$2,244.49 "
+Target G3,BAU,Total individual costs to farmer,Individual farmer costs,$0.00 ,"$3,303.30 ","$3,303.30 ","$3,303.30 ","$3,303.30 ","$3,303.30 ","$3,303.30 ","$3,303.30 ","$3,303.30 ","$3,303.30 ","$3,303.30 "
+Target G3,Scenario 2,Costs of establishing and/or maintain nurseries,Institutional costs,$0.00 ,"$72,386.73 ","$3,126.60 ","$3,126.60 ","$3,126.60 ","$3,126.60 ","$3,126.60 ","$3,126.60 ","$3,126.60 ","$3,126.60 ","$3,126.60 "
+Target G3,Scenario 2,Costs for training and capacity building,Institutional costs,$0.00 ,"$29,207.37 ","$11,682.95 ","$11,682.95 ","$5,841.47 ","$5,841.47 ","$5,841.47 ","$5,841.47 ","$5,841.47 ","$5,841.47 ","$5,841.47 "
+Target G3,Scenario 2,Total institutional costs,Institutional costs,$0.00 ,"$101,594.10 ","$14,809.55 ","$14,809.55 ","$8,968.07 ","$8,968.07 ","$8,968.07 ","$8,968.07 ","$8,968.07 ","$8,968.07 ","$8,968.07 "
+Target G3,Scenario 2,Labor costs,Individual farmer costs,$0.00 ,"$1,240.07 ","$1,298.05 ","$1,327.04 ","$1,344.07 ","$1,327.04 ","$1,327.04 ","$1,363.52 ","$1,327.04 ","$1,327.04 ","$1,327.04 "
+Target G3,Scenario 2,Input costs,Individual farmer costs,$0.00 ,"$2,377.47 ","$2,377.47 ","$2,377.47 ","$2,377.47 ","$2,377.47 ","$2,377.47 ","$2,377.47 ","$2,377.47 ","$2,377.47 ","$2,377.47 "
+Target G3,Scenario 2,Total individual costs to farmer,Individual farmer costs,$0.00 ,"$3,617.54 ","$3,675.52 ","$3,704.51 ","$3,721.53 ","$3,704.51 ","$3,704.51 ","$3,740.99 ","$3,704.51 ","$3,704.51 ","$3,704.51 "
+Target G3,Scenario 3,Costs of establishing and/or maintain nurseries,Institutional costs,$0.00 ,"$81,119.27 ","$4,689.90 ","$4,689.90 ","$4,689.90 ","$4,689.90 ","$4,689.90 ","$4,689.90 ","$4,689.90 ","$4,689.90 ","$4,689.90 "
+Target G3,Scenario 3,Costs for training and capacity building,Institutional costs,$0.00 ,"$41,005.36 ","$20,502.68 ","$20,502.68 ","$8,201.07 ","$8,201.07 ","$8,201.07 ","$8,201.07 ","$8,201.07 ","$8,201.07 ","$8,201.07 "
+Target G3,Scenario 3,Total institutional costs,Institutional costs,$0.00 ,"$122,124.63 ","$25,192.58 ","$25,192.58 ","$12,890.97 ","$12,890.97 ","$12,890.97 ","$12,890.97 ","$12,890.97 ","$12,890.97 ","$12,890.97 "
+Target G3,Scenario 3,Labor costs,Individual farmer costs,$0.00 ,"$1,279.58 ","$1,279.58 ","$1,360.11 ","$1,360.11 ","$1,360.11 ","$1,360.11 ","$1,360.11 ","$1,360.11 ","$1,360.11 ","$1,360.11 "
+Target G3,Scenario 3,Input costs,Individual farmer costs,$0.00 ,"$2,506.47 ","$2,506.47 ","$2,506.47 ","$2,506.47 ","$2,506.47 ","$2,506.47 ","$2,506.47 ","$2,506.47 ","$2,506.47 ","$2,506.47 "
+Target G3,Scenario 3,Total individual costs to farmer,Individual farmer costs,$0.00 ,"$3,786.05 ","$3,786.05 ","$3,866.58 ","$3,866.58 ","$3,866.58 ","$3,866.58 ","$3,866.58 ","$3,866.58 ","$3,866.58 ","$3,866.58 "
+Target G3,Average (Scen2 & Scen3),Costs of establishing and/or maintain nurseries     ,Institutional costs,$0.00 ,"$76,753.00 ","$3,908.25 ","$3,908.25 ","$3,908.25 ","$3,908.25 ","$3,908.25 ","$3,908.25 ","$3,908.25 ","$3,908.25 ","$3,908.25 "
+Target G3,Average (Scen2 & Scen3),Costs for training and capacity building,Institutional costs,$0.00 ,"$35,106.37 ","$16,092.82 ","$16,092.82 ","$7,021.27 ","$7,021.27 ","$7,021.27 ","$7,021.27 ","$7,021.27 ","$7,021.27 ","$7,021.27 "
+Target G3,Average (Scen2 & Scen3),Total institutional costs,Institutional costs,$0.00 ,"$111,859.37 ","$20,001.06 ","$20,001.06 ","$10,929.52 ","$10,929.52 ","$10,929.52 ","$10,929.52 ","$10,929.52 ","$10,929.52 ","$10,929.52 "
+Target G3,Average (Scen2 & Scen3),Labor costs,Individual farmer costs,$0.00 ,"$1,259.83 ","$1,288.82 ","$1,343.58 ","$1,352.09 ","$1,343.58 ","$1,343.58 ","$1,361.81 ","$1,343.58 ","$1,343.58 ","$1,343.58 "
+Target G3,Average (Scen2 & Scen3),Input costs,Individual farmer costs,$0.00 ,"$2,441.97 ","$2,441.97 ","$2,441.97 ","$2,441.97 ","$2,441.97 ","$2,441.97 ","$2,441.97 ","$2,441.97 ","$2,441.97 ","$2,441.97 "
+Target G3,Average (Scen2 & Scen3),Total individual costs to farmer,Individual farmer costs,$0.00 ,"$3,701.80 ","$3,730.79 ","$3,785.54 ","$3,794.05 ","$3,785.54 ","$3,785.54 ","$3,803.78 ","$3,785.54 ","$3,785.54 ","$3,785.54 "
+Target G3,Scenario 2,Incremental labor costs,Individual farmer costs,$0.00 ,$181.26 ,$239.24 ,$268.23 ,$285.25 ,$268.23 ,$268.23 ,$304.70 ,$268.23 ,$268.23 ,$268.23 
+Target G3,Scenario 2,Incremental input costs,Individual farmer costs,$0.00 ,$132.98 ,$132.98 ,$132.98 ,$132.98 ,$132.98 ,$132.98 ,$132.98 ,$132.98 ,$132.98 ,$132.98 
+Target G3,Scenario 2,Incremental total individual costs to farmer,Individual farmer costs,$0.00 ,$314.24 ,$372.22 ,$401.21 ,$418.23 ,$401.21 ,$401.21 ,$437.68 ,$401.21 ,$401.21 ,$401.21 
+Target G3,Scenario 3,Incremental labor costs,Individual farmer costs,$0.00 ,$220.76 ,$220.76 ,$301.29 ,$301.29 ,$301.29 ,$301.29 ,$301.29 ,$301.29 ,$301.29 ,$301.29 
+Target G3,Scenario 3,Incremental input costs,Individual farmer costs,$0.00 ,$261.98 ,$261.98 ,$261.98 ,$261.98 ,$261.98 ,$261.98 ,$261.98 ,$261.98 ,$261.98 ,$261.98 
+Target G3,Scenario 3,Incremental total individual costs to farmer,Individual farmer costs,$0.00 ,$482.75 ,$482.75 ,$563.27 ,$563.27 ,$563.27 ,$563.27 ,$563.27 ,$563.27 ,$563.27 ,$563.27 
+Target G3,Average (Scen2 & Scen3),Incremental labor costs,Individual farmer costs,$0.00 ,$201.01 ,$230.00 ,$284.76 ,$293.27 ,$284.76 ,$284.76 ,$303.00 ,$284.76 ,$284.76 ,$284.76 
+Target G3,Average (Scen2 & Scen3),Incremental input costs,Individual farmer costs,$0.00 ,$197.48 ,$197.48 ,$197.48 ,$197.48 ,$197.48 ,$197.48 ,$197.48 ,$197.48 ,$197.48 ,$197.48 
+Target G3,Average (Scen2 & Scen3),Incremental total individual costs to farmer,Individual farmer costs,$0.00 ,$398.49 ,$427.48 ,$482.24 ,$490.75 ,$482.24 ,$482.24 ,$500.48 ,$482.24 ,$482.24 ,$482.24 
+Target G3,Scenario 2,Labor costs percent increase,Individual farmer costs,$0.00 ,17.1,22.6,25.3,26.9,25.3,25.3,28.8,25.3,25.3,25.3
+Target G3,Scenario 2,Input costs percent increase,Individual farmer costs,$0.00 ,5.9,5.9,5.9,5.9,5.9,5.9,5.9,5.9,5.9,5.9
+Target G3,Scenario 2,total individual costs to farmer percent increase,Individual farmer costs,$0.00 ,9.5,11.3,12.1,12.7,12.1,12.1,13.2,12.1,12.1,12.1
+Target G3,Scenario 3,Labor costs percent increase,Individual farmer costs,$0.00 ,20.9,20.9,28.5,28.5,28.5,28.5,28.5,28.5,28.5,28.5
+Target G3,Scenario 3,Input costs percent increase,Individual farmer costs,$0.00 ,11.7,11.7,11.7,11.7,11.7,11.7,11.7,11.7,11.7,11.7
+Target G3,Scenario 3,total individual costs to farmer percent increase,Individual farmer costs,$0.00 ,14.6,14.6,17.1,17.1,17.1,17.1,17.1,17.1,17.1,17.1
+Target G3,Average (Scen2 & Scen3),Labor costs percent increase,Individual farmer costs,$0.00 ,19,21.7,26.9,27.7,26.9,26.9,28.6,26.9,26.9,26.9
+Target G3,Average (Scen2 & Scen3),Input costs percent increase,Individual farmer costs,$0.00 ,8.8,8.8,8.8,8.8,8.8,8.8,8.8,8.8,8.8,8.8
+Target G3,Average (Scen2 & Scen3),total individual costs to farmer percent increase,Individual farmer costs,$0.00 ,12.1,12.9,14.6,14.9,14.6,14.6,15.2,14.6,14.6,14.6
+Target G3,BAU,Gross value of annual crops of USD,Individual farmer costs,$0.00 ,"$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 "
+Target G3,BAU,Gross value of perrenial crops of USD,Individual farmer costs,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target G3,BAU,Gross value of tree species USD,Individual farmer costs,$0.00 ,$1.41 ,$1.41 ,$1.41 ,$1.41 ,$1.41 ,$1.41 ,$1.41 ,$1.41 ,$1.41 ,$1.41 
+Target G3,BAU,"Gross value		",Individual farmer costs,$0.00 ,"$6,901.97 ","$6,901.97 ","$6,901.97 ","$6,901.97 ","$6,901.97 ","$6,901.97 ","$6,901.97 ","$6,901.97 ","$6,901.97 ","$6,901.97 "
+Target G3,Scenario 2,Gross value of annual crops of USD,Individual farmer costs,$0.00 ,"$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 "
+Target G3,Scenario 2,Gross value of perrenial crops of USD,Individual farmer costs,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target G3,Scenario 2,Gross value of tree species USD,Individual farmer costs,$0.00 ,$0.00 ,$347.88 ,$347.88 ,$347.88 ,$347.88 ,$347.88 ,$347.88 ,$347.88 ,$347.88 ,$408.00 
+Target G3,Scenario 2,"Gross value		",Individual farmer costs,$0.00 ,"$6,900.56 ","$7,248.44 ","$7,248.44 ","$7,248.44 ","$7,248.44 ","$7,248.44 ","$7,248.44 ","$7,248.44 ","$7,248.44 ","$7,308.56 "
+Target G3,Scenario 3,Gross value of annual crops of USD,Individual farmer costs,$0.00 ,"$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 "
+Target G3,Scenario 3,Gross value of perrenial crops of USD,Individual farmer costs,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target G3,Scenario 3,Gross value of tree species (USD),Individual farmer costs,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 
+Target G3,Scenario 3,"Gross value		",Individual farmer costs,$0.00 ,"$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 ","$6,900.56 "
+Target G3,BAU,Net values to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$3,598.66 ","$3,598.66 ","$3,598.66 ","$3,598.66 ","$3,598.66 ","$3,598.66 ","$3,598.66 ","$3,598.66 ","$3,598.66 ","$3,598.66 "
+Target G3,BAU,Net Present Values (NPV) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$3,598.66 ","$3,295.48 ","$3,017.84 ","$2,763.59 ","$2,530.76 ","$2,317.55 ","$2,122.29 ","$1,943.49 ","$1,779.76 ","$1,629.81 "
+Target G3,BAU,Net Present Values (NPV) in USD/person/day/Ha,Individual farmer costs,$0.00 ,$2.23 ,$2.05 ,$1.87 ,$1.72 ,$1.57 ,$1.44 ,$1.32 ,$1.21 ,$1.11 ,$1.01 
+Target G3,BAU,Benefit cost ratio,Individual farmer costs,$0.00 ,$2.09 ,$2.09 ,$2.09 ,$2.09 ,$2.09 ,$2.09 ,$2.09 ,$2.09 ,$2.09 ,$2.09 
+Target G3,Scenario 2,Net values to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$3,283.02 ","$3,572.92 ","$3,543.93 ","$3,526.90 ","$3,543.93 ","$3,543.93 ","$3,507.45 ","$3,543.93 ","$3,543.93 ","$3,604.05 "
+Target G3,Scenario 2,Net Present Values (NPV) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$3,283.02 ","$3,271.90 ","$2,971.94 ","$2,708.48 ","$2,492.26 ","$2,282.29 ","$2,068.50 ","$1,913.93 ","$1,752.68 ","$1,632.25 "
+Target G3,Scenario 2,Net Present Values (NPV) in USD/person/day/Ha,Individual farmer costs,$0.00 ,$2.04 ,$2.03 ,$1.85 ,$1.68 ,$1.55 ,$1.42 ,$1.28 ,$1.19 ,$1.09 ,$1.01 
+Target G3,Scenario 2,Benefit cost ratio,Individual farmer costs,$0.00 ,$1.91 ,$1.97 ,$1.96 ,$1.95 ,$1.96 ,$1.96 ,$1.94 ,$1.96 ,$1.96 ,$1.97 
+Target G3,Scenario 3,Net values to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$3,114.51 ","$3,114.51 ","$3,033.98 ","$3,033.98 ","$3,033.98 ","$3,033.98 ","$3,033.98 ","$3,033.98 ","$3,033.98 ","$3,033.98 "
+Target G3,Scenario 3,Net Present Values (NPV) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$3,114.51 ","$2,852.12 ","$2,544.30 ","$2,329.94 ","$2,133.65 ","$1,953.89 ","$1,789.28 ","$1,638.53 ","$1,500.49 ","$1,374.07 "
+Target G3,Scenario 3,Net Present Values (NPV) in USD/person/day/Ha,Individual farmer costs,$0.00 ,$1.93 ,$1.77 ,$1.58 ,$1.45 ,$1.32 ,$1.21 ,$1.11 ,$1.02 ,$0.93 ,$0.85 
+Target G3,Scenario 3,Benefit cost ratio,Individual farmer costs,$0.00 ,$1.82 ,$1.82 ,$1.78 ,$1.78 ,$1.78 ,$1.78 ,$1.78 ,$1.78 ,$1.78 ,$1.78 
+Target G3,BAU,Net Present Costs (NPC) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$1,058.82 ",$969.61 ,$887.92 ,$813.12 ,$744.61 ,$681.88 ,$624.43 ,$571.82 ,$523.65 ,$479.53 
+Target G3,BAU,Net Present Gross Values (NPGV) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$6,901.97 ","$6,320.48 ","$5,787.99 ","$5,300.36 ","$4,853.81 ","$4,444.88 ","$4,070.40 ","$3,727.47 ","$3,413.44 ","$3,125.86 "
+Target G3,BAU,Net Present Values (NPV) in USD/person/day/Ha _ 1,Individual farmer costs,$0.00 ,"$5,843.15 ","$5,350.87 ","$4,900.06 ","$4,487.24 ","$4,109.19 ","$3,763.00 ","$3,445.97 ","$3,155.65 ","$2,889.79 ","$2,646.33 "
+Target G3,BAU,Benefit-Cost-Ratio (BCR),Individual farmer costs,$0.00 ,6.52,6.52,6.52,6.52,6.52,6.52,6.52,6.52,6.52,6.52
+Target G3,Scenario 2,Net Present Costs (NPC) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$1,240.07 ","$1,188.69 ","$1,112.86 ","$1,032.17 ",$933.24 ,$854.62 ,$804.13 ,$716.68 ,$656.30 ,$601.01 
+Target G3,Scenario 2,Net Present Gross Values (NPGV) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$6,900.56 ","$6,637.76 ","$6,078.54 ","$5,566.43 ","$5,097.46 ","$4,668.00 ","$4,274.73 ","$3,914.59 ","$3,584.79 ","$3,310.00 "
+Target G3,Scenario 2,Net Present Values (NPV) in USD/person/day/Ha _ 1,Individual farmer costs,$0.00 ,"$5,660.49 ","$5,449.07 ","$4,965.68 ","$4,534.25 ","$4,164.22 ","$3,813.39 ","$3,470.60 ","$3,197.90 ","$2,928.48 ","$2,708.99 "
+Target G3,Scenario 2,Benefit-Cost-Ratio (BCR),Individual farmer costs,$0.00 ,5.56,5.58,5.46,5.39,5.46,5.46,5.32,5.46,5.46,5.51
+Target G3,Scenario 3,Net Present Costs (NPC) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$1,279.58 ","$1,171.78 ","$1,140.59 ","$1,044.49 ",$956.50 ,$875.91 ,$802.12 ,$734.54 ,$672.66 ,$615.98 
+Target G3,Scenario 3,Net Present Gross Values (NPGV) to farmers in USD/Ha,Individual farmer costs,$0.00 ,"$6,900.56 ","$6,319.19 ","$5,786.81 ","$5,299.27 ","$4,852.82 ","$4,443.97 ","$4,069.57 ","$3,726.71 ","$3,412.74 ","$3,125.22 "
+Target G3,Scenario 3,Net Present Values (NPV) in USD/person/day/Ha _ 1,Individual farmer costs,$0.00 ,"$5,620.98 ","$5,147.42 ","$4,646.22 ","$4,254.78 ","$3,896.32 ","$3,568.06 ","$3,267.45 ","$2,992.17 ","$2,740.08 ","$2,509.24 "
+Target G3,Scenario 3,Benefit-Cost-Ratio (BCR),Individual farmer costs,$0.00 ,5.39,5.39,5.07,5.07,5.07,5.07,5.07,5.07,5.07,5.07

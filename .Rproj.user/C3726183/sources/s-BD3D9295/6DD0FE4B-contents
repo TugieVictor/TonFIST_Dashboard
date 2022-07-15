@@ -1,0 +1,66 @@
+.sidebar {
+    color: #FFF;
+    position: fixed;
+    width: 220px;
+    background:#831407;
+    white-space: nowrap;
+    overflow: visible;
+}
+
+.sticky_footer {    
+  position:fixed;   
+  bottom:0;    
+  right:0;    
+  left:0;  
+  background:#151313;
+  color:#831407;
+  z-index: 1000;    
+  opacity: 0.9; 
+  
+}
+
+footer {
+  position: fixed;
+  bottom: 0;    
+  right:0;    
+  left:0;        
+  background-color:#3c8dbc;    
+  z-index: 1000;    
+  opacity: 0.9;
+}
+
+
+.main-header.logo {
+           font-family: "Georgia", Times, "Times New Roman", serif;
+           font-weight: bold;
+          font-size: 20px;
+          }
+          /* logo */
+        .skin-blue .main-header .logo {
+                              background-color: #2D2E30;
+                              color:#5AFC03;
+                              }
+
+        /* logo when hovered */
+        .skin-blue .main-header .logo:hover {
+                              background-color: #151313;
+                              color:#FFFFFF;
+                              }
+
+        /* navbar (rest of the header) */
+        .skin-blue .main-header .navbar {
+                              background-color: #14CA02;
+                              color:#FFFFFF;
+                              }        
+
+        /* main sidebar */
+        .skin-blue .main-sidebar {
+                              background-color: #151313;
+                              color:#FFFFFF;
+        }
+        
+        .skin-blue .main-header .logo:hover {
+          background-color: #14CA02;
+        }
+        
+        * { font-family: "Times New Roman"; }
