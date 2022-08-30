@@ -60,5 +60,33 @@ fwrite(RwandaDB.long, "data/Rwanda.csv")
 
 ```
 
+```{r Import Carbon dataset}
+CarbonDB <- data.table(read_csv("data/CarbonDB.csv"))
+```
 
+```{r Remove the $ sign to clean the dataset}
+CarbonDB$`Cumulative total institutional costs (US$/ha)` <- as.numeric(gsub("\\$|,", "", CarbonDB$`Cumulative total institutional costs (US$/ha)`))
+CarbonDB$`Cumulative total individual costs to farmers/ha` <- as.numeric(gsub("\\$|,", "", CarbonDB$`Cumulative total individual costs to farmers/ha`))
+```
+
+
+```{r}
+CarbonDB.long <- CarbonDB %>% 
+  pivot_longer(
+    cols = starts_with(c("Cumulative(tC/ha)",
+                         "Cumulative total institutional",
+                         "Institutional",
+                         "Cumulative total individual",
+                         "Individual")),
+    names_to = "Type of investment",
+    names_prefix = NULL,
+    values_to = "Amount",
+    values_drop_na = TRUE
+  )
+View(CarbonDB.long)
+```
+
+```{r export the data set}
+fwrite(CarbonDB.long, "data/Carbon.csv")
+```
 

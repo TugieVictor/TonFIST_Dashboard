@@ -584,19 +584,19 @@ Target 1,BAU,Gross value of tree species USD,Individual farmer costs,Year 9,16.2
 Target 1,BAU,Gross value of tree species USD,Individual farmer costs,Year 10,16.22
 Target 1,BAU,Gross value of tree species USD,Individual farmer costs,Year 20,16.22
 Target 1,BAU,Gross value of tree species USD,Individual farmer costs,Year 30,16.22
-Target 1,BAU,Gross value,Individual farmer costs,BAU,0
-Target 1,BAU,Gross value,Individual farmer costs,Year 1,4641.62
-Target 1,BAU,Gross value,Individual farmer costs,Year 2,4641.62
-Target 1,BAU,Gross value,Individual farmer costs,Year 3,4641.62
-Target 1,BAU,Gross value,Individual farmer costs,Year 4,4641.62
-Target 1,BAU,Gross value,Individual farmer costs,Year 5,4641.62
-Target 1,BAU,Gross value,Individual farmer costs,Year 6,4641.62
-Target 1,BAU,Gross value,Individual farmer costs,Year 7,4641.62
-Target 1,BAU,Gross value,Individual farmer costs,Year 8,4641.62
-Target 1,BAU,Gross value,Individual farmer costs,Year 9,4641.62
-Target 1,BAU,Gross value,Individual farmer costs,Year 10,4641.62
-Target 1,BAU,Gross value,Individual farmer costs,Year 20,4641.62
-Target 1,BAU,Gross value,Individual farmer costs,Year 30,4641.62
+Target 1,BAU,Total gross value,Individual farmer costs,BAU,0
+Target 1,BAU,Total gross value,Individual farmer costs,Year 1,4641.62
+Target 1,BAU,Total gross value,Individual farmer costs,Year 2,4641.62
+Target 1,BAU,Total gross value,Individual farmer costs,Year 3,4641.62
+Target 1,BAU,Total gross value,Individual farmer costs,Year 4,4641.62
+Target 1,BAU,Total gross value,Individual farmer costs,Year 5,4641.62
+Target 1,BAU,Total gross value,Individual farmer costs,Year 6,4641.62
+Target 1,BAU,Total gross value,Individual farmer costs,Year 7,4641.62
+Target 1,BAU,Total gross value,Individual farmer costs,Year 8,4641.62
+Target 1,BAU,Total gross value,Individual farmer costs,Year 9,4641.62
+Target 1,BAU,Total gross value,Individual farmer costs,Year 10,4641.62
+Target 1,BAU,Total gross value,Individual farmer costs,Year 20,4641.62
+Target 1,BAU,Total gross value,Individual farmer costs,Year 30,4641.62
 Target 1,Scenario 2,Gross value of annual crops of USD,Individual farmer costs,BAU,0
 Target 1,Scenario 2,Gross value of annual crops of USD,Individual farmer costs,Year 1,618.16
 Target 1,Scenario 2,Gross value of annual crops of USD,Individual farmer costs,Year 2,618.16
@@ -636,19 +636,19 @@ Target 1,Scenario 2,Gross value of tree species USD,Individual farmer costs,Year
 Target 1,Scenario 2,Gross value of tree species USD,Individual farmer costs,Year 10,46266.67
 Target 1,Scenario 2,Gross value of tree species USD,Individual farmer costs,Year 20,46266.67
 Target 1,Scenario 2,Gross value of tree species USD,Individual farmer costs,Year 30,46266.67
-Target 1,Scenario 2,Gross value,Individual farmer costs,BAU,0
-Target 1,Scenario 2,Gross value,Individual farmer costs,Year 1,2699.68
-Target 1,Scenario 2,Gross value,Individual farmer costs,Year 2,2699.68
-Target 1,Scenario 2,Gross value,Individual farmer costs,Year 3,2699.68
-Target 1,Scenario 2,Gross value,Individual farmer costs,Year 4,2699.68
-Target 1,Scenario 2,Gross value,Individual farmer costs,Year 5,2699.68
-Target 1,Scenario 2,Gross value,Individual farmer costs,Year 6,2699.68
-Target 1,Scenario 2,Gross value,Individual farmer costs,Year 7,2699.68
-Target 1,Scenario 2,Gross value,Individual farmer costs,Year 8,2699.68
-Target 1,Scenario 2,Gross value,Individual farmer costs,Year 9,2699.68
-Target 1,Scenario 2,Gross value,Individual farmer costs,Year 10,48966.35
-Target 1,Scenario 2,Gross value,Individual farmer costs,Year 20,48966.35
-Target 1,Scenario 2,Gross value,Individual farmer costs,Year 30,48966.35
+Target 1,Scenario 2,Total gross value,Individual farmer costs,BAU,0
+Target 1,Scenario 2,Total gross value,Individual farmer costs,Year 1,2699.68
+Target 1,Scenario 2,Total gross value,Individual farmer costs,Year 2,2699.68
+Target 1,Scenario 2,Total gross value,Individual farmer costs,Year 3,2699.68
+Target 1,Scenario 2,Total gross value,Individual farmer costs,Year 4,2699.68
+Target 1,Scenario 2,Total gross value,Individual farmer costs,Year 5,2699.68
+Target 1,Scenario 2,Total gross value,Individual farmer costs,Year 6,2699.68
+Target 1,Scenario 2,Total gross value,Individual farmer costs,Year 7,2699.68
+Target 1,Scenario 2,Total gross value,Individual farmer costs,Year 8,2699.68
+Target 1,Scenario 2,Total gross value,Individual farmer costs,Year 9,2699.68
+Target 1,Scenario 2,Total gross value,Individual farmer costs,Year 10,48966.35
+Target 1,Scenario 2,Total gross value,Individual farmer costs,Year 20,48966.35
+Target 1,Scenario 2,Total gross value,Individual farmer costs,Year 30,48966.35
 Target 1,Scenario 3,Gross value of annual crops of USD,Individual farmer costs,BAU,0
 Target 1,Scenario 3,Gross value of annual crops of USD,Individual farmer costs,Year 1,618.16
 Target 1,Scenario 3,Gross value of annual crops of USD,Individual farmer costs,Year 2,618.16
@@ -688,19 +688,19 @@ Target 1,Scenario 3,Gross value of tree species USD,Individual farmer costs,Year
 Target 1,Scenario 3,Gross value of tree species USD,Individual farmer costs,Year 10,37333
 Target 1,Scenario 3,Gross value of tree species USD,Individual farmer costs,Year 20,37333
 Target 1,Scenario 3,Gross value of tree species USD,Individual farmer costs,Year 30,37333
-Target 1,Scenario 3,Gross value,Individual farmer costs,BAU,0
-Target 1,Scenario 3,Gross value,Individual farmer costs,Year 1,2699.68
-Target 1,Scenario 3,Gross value,Individual farmer costs,Year 2,2699.68
-Target 1,Scenario 3,Gross value,Individual farmer costs,Year 3,2699.68
-Target 1,Scenario 3,Gross value,Individual farmer costs,Year 4,2699.68
-Target 1,Scenario 3,Gross value,Individual farmer costs,Year 5,2699.68
-Target 1,Scenario 3,Gross value,Individual farmer costs,Year 6,2699.68
-Target 1,Scenario 3,Gross value,Individual farmer costs,Year 7,2699.68
-Target 1,Scenario 3,Gross value,Individual farmer costs,Year 8,2699.68
-Target 1,Scenario 3,Gross value,Individual farmer costs,Year 9,2699.68
-Target 1,Scenario 3,Gross value,Individual farmer costs,Year 10,40032.68
-Target 1,Scenario 3,Gross value,Individual farmer costs,Year 20,40032.68
-Target 1,Scenario 3,Gross value,Individual farmer costs,Year 30,40032.68
+Target 1,Scenario 3,Total gross value,Individual farmer costs,BAU,0
+Target 1,Scenario 3,Total gross value,Individual farmer costs,Year 1,2699.68
+Target 1,Scenario 3,Total gross value,Individual farmer costs,Year 2,2699.68
+Target 1,Scenario 3,Total gross value,Individual farmer costs,Year 3,2699.68
+Target 1,Scenario 3,Total gross value,Individual farmer costs,Year 4,2699.68
+Target 1,Scenario 3,Total gross value,Individual farmer costs,Year 5,2699.68
+Target 1,Scenario 3,Total gross value,Individual farmer costs,Year 6,2699.68
+Target 1,Scenario 3,Total gross value,Individual farmer costs,Year 7,2699.68
+Target 1,Scenario 3,Total gross value,Individual farmer costs,Year 8,2699.68
+Target 1,Scenario 3,Total gross value,Individual farmer costs,Year 9,2699.68
+Target 1,Scenario 3,Total gross value,Individual farmer costs,Year 10,40032.68
+Target 1,Scenario 3,Total gross value,Individual farmer costs,Year 20,40032.68
+Target 1,Scenario 3,Total gross value,Individual farmer costs,Year 30,40032.68
 Target 1,BAU,Net values to farmers in USD/Ha,Individual farmer costs,BAU,0
 Target 1,BAU,Net values to farmers in USD/Ha,Individual farmer costs,Year 1,3817.94
 Target 1,BAU,Net values to farmers in USD/Ha,Individual farmer costs,Year 2,3817.94
@@ -1559,19 +1559,19 @@ Target 2,BAU,Gross value of tree species USD,Individual farmer costs,Year 9,16.2
 Target 2,BAU,Gross value of tree species USD,Individual farmer costs,Year 10,16.22
 Target 2,BAU,Gross value of tree species USD,Individual farmer costs,Year 20,16.22
 Target 2,BAU,Gross value of tree species USD,Individual farmer costs,Year 30,16.22
-Target 2,BAU,Gross value,Individual farmer costs,BAU,0
-Target 2,BAU,Gross value,Individual farmer costs,Year 1,4181.08
-Target 2,BAU,Gross value,Individual farmer costs,Year 2,4181.08
-Target 2,BAU,Gross value,Individual farmer costs,Year 3,4181.08
-Target 2,BAU,Gross value,Individual farmer costs,Year 4,4181.08
-Target 2,BAU,Gross value,Individual farmer costs,Year 5,4181.08
-Target 2,BAU,Gross value,Individual farmer costs,Year 6,4181.08
-Target 2,BAU,Gross value,Individual farmer costs,Year 7,4181.08
-Target 2,BAU,Gross value,Individual farmer costs,Year 8,4181.08
-Target 2,BAU,Gross value,Individual farmer costs,Year 9,4181.08
-Target 2,BAU,Gross value,Individual farmer costs,Year 10,4181.08
-Target 2,BAU,Gross value,Individual farmer costs,Year 20,4181.08
-Target 2,BAU,Gross value,Individual farmer costs,Year 30,4181.08
+Target 2,BAU,Total gross value,Individual farmer costs,BAU,0
+Target 2,BAU,Total gross value,Individual farmer costs,Year 1,4181.08
+Target 2,BAU,Total gross value,Individual farmer costs,Year 2,4181.08
+Target 2,BAU,Total gross value,Individual farmer costs,Year 3,4181.08
+Target 2,BAU,Total gross value,Individual farmer costs,Year 4,4181.08
+Target 2,BAU,Total gross value,Individual farmer costs,Year 5,4181.08
+Target 2,BAU,Total gross value,Individual farmer costs,Year 6,4181.08
+Target 2,BAU,Total gross value,Individual farmer costs,Year 7,4181.08
+Target 2,BAU,Total gross value,Individual farmer costs,Year 8,4181.08
+Target 2,BAU,Total gross value,Individual farmer costs,Year 9,4181.08
+Target 2,BAU,Total gross value,Individual farmer costs,Year 10,4181.08
+Target 2,BAU,Total gross value,Individual farmer costs,Year 20,4181.08
+Target 2,BAU,Total gross value,Individual farmer costs,Year 30,4181.08
 Target 2,Scenario 2,Gross value of annual crops of USD,Individual farmer costs,BAU,0
 Target 2,Scenario 2,Gross value of annual crops of USD,Individual farmer costs,Year 1,1104.65
 Target 2,Scenario 2,Gross value of annual crops of USD,Individual farmer costs,Year 2,1104.65
@@ -1611,19 +1611,19 @@ Target 2,Scenario 2,Gross value of tree species USD,Individual farmer costs,Year
 Target 2,Scenario 2,Gross value of tree species USD,Individual farmer costs,Year 10,46266
 Target 2,Scenario 2,Gross value of tree species USD,Individual farmer costs,Year 20,46266
 Target 2,Scenario 2,Gross value of tree species USD,Individual farmer costs,Year 30,46266
-Target 2,Scenario 2,Gross value,Individual farmer costs,BAU,0
-Target 2,Scenario 2,Gross value,Individual farmer costs,Year 1,1856
-Target 2,Scenario 2,Gross value,Individual farmer costs,Year 2,1856
-Target 2,Scenario 2,Gross value,Individual farmer costs,Year 3,1856
-Target 2,Scenario 2,Gross value,Individual farmer costs,Year 4,1856
-Target 2,Scenario 2,Gross value,Individual farmer costs,Year 5,1856
-Target 2,Scenario 2,Gross value,Individual farmer costs,Year 6,1856
-Target 2,Scenario 2,Gross value,Individual farmer costs,Year 7,1856
-Target 2,Scenario 2,Gross value,Individual farmer costs,Year 8,1856
-Target 2,Scenario 2,Gross value,Individual farmer costs,Year 9,1856
-Target 2,Scenario 2,Gross value,Individual farmer costs,Year 10,48122
-Target 2,Scenario 2,Gross value,Individual farmer costs,Year 20,48122
-Target 2,Scenario 2,Gross value,Individual farmer costs,Year 30,48122
+Target 2,Scenario 2,Total gross value,Individual farmer costs,BAU,0
+Target 2,Scenario 2,Total gross value,Individual farmer costs,Year 1,1856
+Target 2,Scenario 2,Total gross value,Individual farmer costs,Year 2,1856
+Target 2,Scenario 2,Total gross value,Individual farmer costs,Year 3,1856
+Target 2,Scenario 2,Total gross value,Individual farmer costs,Year 4,1856
+Target 2,Scenario 2,Total gross value,Individual farmer costs,Year 5,1856
+Target 2,Scenario 2,Total gross value,Individual farmer costs,Year 6,1856
+Target 2,Scenario 2,Total gross value,Individual farmer costs,Year 7,1856
+Target 2,Scenario 2,Total gross value,Individual farmer costs,Year 8,1856
+Target 2,Scenario 2,Total gross value,Individual farmer costs,Year 9,1856
+Target 2,Scenario 2,Total gross value,Individual farmer costs,Year 10,48122
+Target 2,Scenario 2,Total gross value,Individual farmer costs,Year 20,48122
+Target 2,Scenario 2,Total gross value,Individual farmer costs,Year 30,48122
 Target 2,Scenario 3,Gross value of annual crops of USD,Individual farmer costs,BAU,0
 Target 2,Scenario 3,Gross value of annual crops of USD,Individual farmer costs,Year 1,1157.58
 Target 2,Scenario 3,Gross value of annual crops of USD,Individual farmer costs,Year 2,1157.58
@@ -1663,19 +1663,19 @@ Target 2,Scenario 3,Gross value of tree species USD,Individual farmer costs,Year
 Target 2,Scenario 3,Gross value of tree species USD,Individual farmer costs,Year 10,37333
 Target 2,Scenario 3,Gross value of tree species USD,Individual farmer costs,Year 20,37333
 Target 2,Scenario 3,Gross value of tree species USD,Individual farmer costs,Year 30,37333
-Target 2,Scenario 3,Gross value,Individual farmer costs,BAU,0
-Target 2,Scenario 3,Gross value,Individual farmer costs,Year 1,2344.96
-Target 2,Scenario 3,Gross value,Individual farmer costs,Year 2,2344.96
-Target 2,Scenario 3,Gross value,Individual farmer costs,Year 3,2344.96
-Target 2,Scenario 3,Gross value,Individual farmer costs,Year 4,2344.96
-Target 2,Scenario 3,Gross value,Individual farmer costs,Year 5,2344.96
-Target 2,Scenario 3,Gross value,Individual farmer costs,Year 6,2344.96
-Target 2,Scenario 3,Gross value,Individual farmer costs,Year 7,2344.96
-Target 2,Scenario 3,Gross value,Individual farmer costs,Year 8,2344.96
-Target 2,Scenario 3,Gross value,Individual farmer costs,Year 9,2344.96
-Target 2,Scenario 3,Gross value,Individual farmer costs,Year 10,39677.96
-Target 2,Scenario 3,Gross value,Individual farmer costs,Year 20,39677.96
-Target 2,Scenario 3,Gross value,Individual farmer costs,Year 30,39677.96
+Target 2,Scenario 3,Total gross value,Individual farmer costs,BAU,0
+Target 2,Scenario 3,Total gross value,Individual farmer costs,Year 1,2344.96
+Target 2,Scenario 3,Total gross value,Individual farmer costs,Year 2,2344.96
+Target 2,Scenario 3,Total gross value,Individual farmer costs,Year 3,2344.96
+Target 2,Scenario 3,Total gross value,Individual farmer costs,Year 4,2344.96
+Target 2,Scenario 3,Total gross value,Individual farmer costs,Year 5,2344.96
+Target 2,Scenario 3,Total gross value,Individual farmer costs,Year 6,2344.96
+Target 2,Scenario 3,Total gross value,Individual farmer costs,Year 7,2344.96
+Target 2,Scenario 3,Total gross value,Individual farmer costs,Year 8,2344.96
+Target 2,Scenario 3,Total gross value,Individual farmer costs,Year 9,2344.96
+Target 2,Scenario 3,Total gross value,Individual farmer costs,Year 10,39677.96
+Target 2,Scenario 3,Total gross value,Individual farmer costs,Year 20,39677.96
+Target 2,Scenario 3,Total gross value,Individual farmer costs,Year 30,39677.96
 Target 2,BAU,Net values to farmers in USD/Ha,Individual farmer costs,BAU,0
 Target 2,BAU,Net values to farmers in USD/Ha,Individual farmer costs,Year 1,3481.89
 Target 2,BAU,Net values to farmers in USD/Ha,Individual farmer costs,Year 2,3481.89
@@ -2534,19 +2534,19 @@ Target 3,BAU,Gross value of tree species USD,Individual farmer costs,Year 9,400
 Target 3,BAU,Gross value of tree species USD,Individual farmer costs,Year 10,400
 Target 3,BAU,Gross value of tree species USD,Individual farmer costs,Year 20,400
 Target 3,BAU,Gross value of tree species USD,Individual farmer costs,Year 30,400
-Target 3,BAU,Gross value,Individual farmer costs,BAU,0
-Target 3,BAU,Gross value,Individual farmer costs,Year 1,400
-Target 3,BAU,Gross value,Individual farmer costs,Year 2,400
-Target 3,BAU,Gross value,Individual farmer costs,Year 3,400
-Target 3,BAU,Gross value,Individual farmer costs,Year 4,400
-Target 3,BAU,Gross value,Individual farmer costs,Year 5,400
-Target 3,BAU,Gross value,Individual farmer costs,Year 6,400
-Target 3,BAU,Gross value,Individual farmer costs,Year 7,400
-Target 3,BAU,Gross value,Individual farmer costs,Year 8,400
-Target 3,BAU,Gross value,Individual farmer costs,Year 9,400
-Target 3,BAU,Gross value,Individual farmer costs,Year 10,400
-Target 3,BAU,Gross value,Individual farmer costs,Year 20,400
-Target 3,BAU,Gross value,Individual farmer costs,Year 30,400
+Target 3,BAU,Total gross value,Individual farmer costs,BAU,0
+Target 3,BAU,Total gross value,Individual farmer costs,Year 1,400
+Target 3,BAU,Total gross value,Individual farmer costs,Year 2,400
+Target 3,BAU,Total gross value,Individual farmer costs,Year 3,400
+Target 3,BAU,Total gross value,Individual farmer costs,Year 4,400
+Target 3,BAU,Total gross value,Individual farmer costs,Year 5,400
+Target 3,BAU,Total gross value,Individual farmer costs,Year 6,400
+Target 3,BAU,Total gross value,Individual farmer costs,Year 7,400
+Target 3,BAU,Total gross value,Individual farmer costs,Year 8,400
+Target 3,BAU,Total gross value,Individual farmer costs,Year 9,400
+Target 3,BAU,Total gross value,Individual farmer costs,Year 10,400
+Target 3,BAU,Total gross value,Individual farmer costs,Year 20,400
+Target 3,BAU,Total gross value,Individual farmer costs,Year 30,400
 Target 3,Scenario 2,Gross value of annual crops of USD,Individual farmer costs,BAU,0
 Target 3,Scenario 2,Gross value of annual crops of USD,Individual farmer costs,Year 1,0
 Target 3,Scenario 2,Gross value of annual crops of USD,Individual farmer costs,Year 2,0
@@ -2586,19 +2586,19 @@ Target 3,Scenario 2,Gross value of tree species USD,Individual farmer costs,Year
 Target 3,Scenario 2,Gross value of tree species USD,Individual farmer costs,Year 10,46266.67
 Target 3,Scenario 2,Gross value of tree species USD,Individual farmer costs,Year 20,46266.67
 Target 3,Scenario 2,Gross value of tree species USD,Individual farmer costs,Year 30,46266.67
-Target 3,Scenario 2,Gross value,Individual farmer costs,BAU,0
-Target 3,Scenario 2,Gross value,Individual farmer costs,Year 1,0
-Target 3,Scenario 2,Gross value,Individual farmer costs,Year 2,0
-Target 3,Scenario 2,Gross value,Individual farmer costs,Year 3,0
-Target 3,Scenario 2,Gross value,Individual farmer costs,Year 4,0
-Target 3,Scenario 2,Gross value,Individual farmer costs,Year 5,0
-Target 3,Scenario 2,Gross value,Individual farmer costs,Year 6,0
-Target 3,Scenario 2,Gross value,Individual farmer costs,Year 7,0
-Target 3,Scenario 2,Gross value,Individual farmer costs,Year 8,0
-Target 3,Scenario 2,Gross value,Individual farmer costs,Year 9,0
-Target 3,Scenario 2,Gross value,Individual farmer costs,Year 10,46266.67
-Target 3,Scenario 2,Gross value,Individual farmer costs,Year 20,46266.67
-Target 3,Scenario 2,Gross value,Individual farmer costs,Year 30,46266.67
+Target 3,Scenario 2,Total gross value,Individual farmer costs,BAU,0
+Target 3,Scenario 2,Total gross value,Individual farmer costs,Year 1,0
+Target 3,Scenario 2,Total gross value,Individual farmer costs,Year 2,0
+Target 3,Scenario 2,Total gross value,Individual farmer costs,Year 3,0
+Target 3,Scenario 2,Total gross value,Individual farmer costs,Year 4,0
+Target 3,Scenario 2,Total gross value,Individual farmer costs,Year 5,0
+Target 3,Scenario 2,Total gross value,Individual farmer costs,Year 6,0
+Target 3,Scenario 2,Total gross value,Individual farmer costs,Year 7,0
+Target 3,Scenario 2,Total gross value,Individual farmer costs,Year 8,0
+Target 3,Scenario 2,Total gross value,Individual farmer costs,Year 9,0
+Target 3,Scenario 2,Total gross value,Individual farmer costs,Year 10,46266.67
+Target 3,Scenario 2,Total gross value,Individual farmer costs,Year 20,46266.67
+Target 3,Scenario 2,Total gross value,Individual farmer costs,Year 30,46266.67
 Target 3,Scenario 3,Gross value of annual crops of USD,Individual farmer costs,BAU,0
 Target 3,Scenario 3,Gross value of annual crops of USD,Individual farmer costs,Year 1,0
 Target 3,Scenario 3,Gross value of annual crops of USD,Individual farmer costs,Year 2,0
@@ -2638,19 +2638,19 @@ Target 3,Scenario 3,Gross value of tree species USD,Individual farmer costs,Year
 Target 3,Scenario 3,Gross value of tree species USD,Individual farmer costs,Year 10,37333
 Target 3,Scenario 3,Gross value of tree species USD,Individual farmer costs,Year 20,37333
 Target 3,Scenario 3,Gross value of tree species USD,Individual farmer costs,Year 30,37333
-Target 3,Scenario 3,Gross value,Individual farmer costs,BAU,0
-Target 3,Scenario 3,Gross value,Individual farmer costs,Year 1,0
-Target 3,Scenario 3,Gross value,Individual farmer costs,Year 2,0
-Target 3,Scenario 3,Gross value,Individual farmer costs,Year 3,0
-Target 3,Scenario 3,Gross value,Individual farmer costs,Year 4,0
-Target 3,Scenario 3,Gross value,Individual farmer costs,Year 5,0
-Target 3,Scenario 3,Gross value,Individual farmer costs,Year 6,0
-Target 3,Scenario 3,Gross value,Individual farmer costs,Year 7,0
-Target 3,Scenario 3,Gross value,Individual farmer costs,Year 8,0
-Target 3,Scenario 3,Gross value,Individual farmer costs,Year 9,0
-Target 3,Scenario 3,Gross value,Individual farmer costs,Year 10,37333
-Target 3,Scenario 3,Gross value,Individual farmer costs,Year 20,37333
-Target 3,Scenario 3,Gross value,Individual farmer costs,Year 30,37333
+Target 3,Scenario 3,Total gross value,Individual farmer costs,BAU,0
+Target 3,Scenario 3,Total gross value,Individual farmer costs,Year 1,0
+Target 3,Scenario 3,Total gross value,Individual farmer costs,Year 2,0
+Target 3,Scenario 3,Total gross value,Individual farmer costs,Year 3,0
+Target 3,Scenario 3,Total gross value,Individual farmer costs,Year 4,0
+Target 3,Scenario 3,Total gross value,Individual farmer costs,Year 5,0
+Target 3,Scenario 3,Total gross value,Individual farmer costs,Year 6,0
+Target 3,Scenario 3,Total gross value,Individual farmer costs,Year 7,0
+Target 3,Scenario 3,Total gross value,Individual farmer costs,Year 8,0
+Target 3,Scenario 3,Total gross value,Individual farmer costs,Year 9,0
+Target 3,Scenario 3,Total gross value,Individual farmer costs,Year 10,37333
+Target 3,Scenario 3,Total gross value,Individual farmer costs,Year 20,37333
+Target 3,Scenario 3,Total gross value,Individual farmer costs,Year 30,37333
 Target 3,BAU,Net values to farmers in USD/Ha,Individual farmer costs,BAU,0
 Target 3,BAU,Net values to farmers in USD/Ha,Individual farmer costs,Year 1,345.95
 Target 3,BAU,Net values to farmers in USD/Ha,Individual farmer costs,Year 2,345.95

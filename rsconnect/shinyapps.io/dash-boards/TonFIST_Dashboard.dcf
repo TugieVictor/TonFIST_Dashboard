@@ -5,10 +5,10 @@ account: dash-boards
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6646091
-bundleId: 6100870
+bundleId: 6250797
 url: https://dash-boards.shinyapps.io/TonFIST_Dashboard/
-when: 1657882270.41388
-lastSyncTime: 1657882270.41388
+when: 1661843974.34732
+lastSyncTime: 1661843974.34732
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: data/RwandaDB.csv|data/UgandaDB.csv|Script.Rmd
+ignoredFiles: Script.Rmd
